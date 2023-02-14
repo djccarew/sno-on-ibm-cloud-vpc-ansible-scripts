@@ -38,7 +38,7 @@ ii. Install the command line [Git client](https://git-scm.com/downloads) if you 
 iii. Clone this repo
 
 ```
-   git clone git@github.ibm.com:carew/sno-on-ibm-cloud-vpc-ansible-scripts.git
+   git clone https://github.com/djccarew/sno-on-ibm-cloud-vpc-ansible-scripts.git
    cd sno-on-ibm-cloud-vpc-ansible-scripts
 ```
 
