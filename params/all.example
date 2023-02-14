@@ -1,0 +1,18 @@
+---
+# These must be changed
+ic_api_key: "CHANGE IC_API_KEY"
+rh_api_token: "CHANGE RH_API_TOKEN"
+name_prefix: "CHANGE_NAMEPREFIX"
+zone: "CHANGE_ZONE"
+region: "CHANGE_REGION"
+resource_group_name: "CHANGE_RESOURCEGROUP"
+sno_domain_name: "CHANGE_DOMAIN"
+sno_cluster_name: "CHANGE_CLUSTERNAME"
+
+# Change these only if you need to 
+sno_version: "4.11"
+setup_odf: true
+sno_ip_address: "192.168.122.3"
+sno_mac_address: "54:50:90:0e:45:12"
+
+

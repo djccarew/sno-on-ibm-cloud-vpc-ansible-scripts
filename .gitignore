@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+auth/*
+!auth/.donotdelete
+params/*
+!params/all.example
+state/*
+!state/.donotdelete
