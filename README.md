@@ -20,7 +20,6 @@ The Ansible playbooks utilized here are wrapped in a docker container for  porta
 | --- | --- | --- | --- | --- | --- | ---|
 | KVM VSI | 16 | 64Gb | 100Gb | 600GB | Rocky Linux 8.7 | Second disk is used for VM guest storage |
 | SNO KVM Guest | 8 | 32Gb | 120GB | 250GB | CoreOS | Second disk is used for PVC storage |
-| Helper KVM Guest | 2 | 4Gb | 5Gb | N/A | Fedora 34 | Provides DNS, DHCP for SNO guest |
 
 ## Source code of Ansible playbooks
 The source code for the Ansible playbooks and the Dockerfile for building the image used to run them  are available in the companion repo [Spin up a Single Node OpenShift Cluster on IBM Cloud - Build](https://github.com/djccarew/sno-on-ibm-cloud-vpc-ansible-build) . 
